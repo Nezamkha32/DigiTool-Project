@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blog posts, and marketing copy with advanced AI assistance in seconds.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Unlimited content generation", "SEO optimization built-in", "Plagiarism checker", "20+ writing templates"],
+    "icon": "✍️"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "Access 500+ premium design templates for social media, presentations, and all marketing materials.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["500+ premium templates", "Fully editable designs", "Commercial license included", "Regular new additions"],
+    "icon": "🎨"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Unlimited access to high-resolution photos, videos, icons, and illustrations for all your projects.",
+    "price": 79,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["1M+ stock photos", "4K video clips library", "Icon & illustration packs", "Lifetime updates"],
+    "icon": "🖼️"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate repetitive tasks and streamline your workflow with 100+ powerful automation templates.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["100+ automation workflows", "API integrations", "Scheduled task runner", "Analytics dashboard"],
+    "icon": "⚙️"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create professional, ATS-optimized resumes that stand out and help you land more job interviews.",
+    "price": 19,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["100+ resume templates", "ATS optimization engine", "Export to PDF & Word", "Cover letter builder"],
+    "icon": "📄"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Plan, create, and schedule social media content to grow your audience and boost engagement consistently.",
+    "price": 59,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Content calendar planner", "Multi-platform scheduling", "Engagement analytics", "AI caption generator"],
+    "icon": "📱"
+  },
+  {
+    "id": 7,
+    "name": "SEO Analyzer Pro",
+    "description": "Boost your website's search rankings with comprehensive SEO analysis and actionable recommendations.",
+    "price": 89,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Keyword research tool", "Competitor gap analysis", "Backlink tracker", "Full site audit reports"],
+    "icon": "🔍"
+  },
+  {
+    "id": 8,
+    "name": "Video Editor Suite",
+    "description": "Professional video editing tools with effects, transitions, and multi-platform export options for creators.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["4K video editing support", "200+ transitions & effects", "AI audio enhancement", "50GB cloud storage"],
+    "icon": "🎬"
+  },
+
+
+
+
+
+
+
+
+  {
+    "id":9,
+    "name": "AI WritingPro",
+    "description": "Generate high-quality content effortlessly.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "Popular",
+    "features": ["Advanced AI algorithms", "Multiple language support", "SEO optimization"],
+    "icon": "📝"
+  },
+  {
+    "id": 10,
+    "name": "Design Template Pack",
+    "description": "Access hundreds of customizable templates.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "New",
+    "features": ["Editable in design software", "Regular updates", "Commercial license"],
+    "icon": "🎨"
+  },
+  {
+    "id":11,
+    "name": "Premium Stock Assets",
+    "description": "Download unlimited premium stock photos and videos.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "best-seller",
+    "tagType": "Best Seller",
+    "features": ["High-resolution assets", "Royalty-free usage", "New content weekly"],
+    "icon": "📷"
+  },
+  {
+    "id": 12,
+    "name": "Automation Toolkit",
+    "description": "Automate repetitive tasks and save time.",
+    "price": 35,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "Popular",
+    "features": ["Workflow automation", "Integration with apps", "Custom triggers"],
+    "icon": "⚙️"
+  },
+  {
+    "id": 13,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes in minutes.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "New",
+    "features": ["Multiple templates", "Easy customization", "Export to PDF"],
+    "icon": "📄"
+  },
+  {
+    "id": 14,
+    "name": "Social Media Content Kit",
+    "description": "Plan and design social media posts easily.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "best-seller",
+    "tagType": "Best Seller",
+    "features": ["Pre-made templates", "Scheduling tools", "Analytics integration"],
+    "icon": "📱"
+  }
+
+
+
+]
