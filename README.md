@@ -23,9 +23,9 @@ DigiTools হলো একটি React ভিত্তিক ওয়েবসা�
 ---
 
 ## 🚀 Live Demo
-🔗 [Live Site Link](https://your-live-site-link.com)
+🔗 [My netlify Live Site Link]: 
 
 ---
 
 ## 📂 Repository
-🔗 [GitHub Repository Link](https://github.com/your-username/digitools)
+🔗 [GitHub Repository Link]: https://github.com/Nezamkha32/DigiTool-Project.git
