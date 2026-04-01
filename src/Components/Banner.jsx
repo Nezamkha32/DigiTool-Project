@@ -26,14 +26,14 @@ const Banner = () => {
                 Explore Products
               </button>
               <button className="flex items-center gap-1 border border-gray-200 hover:border-purple-300 hover:bg-purple-50 text-gray-700 px-8 py-3.5 rounded-xl font-semibold text-base transition-all">
-                <img src="./src/assets/assets/play.png" alt="#" /> Watch Demo
+                <img src="./play.png" alt="#" /> Watch Demo
               </button>
             </div>
            </div>
 
           {/* Right Illustration */}
           <div className="flex-1 flex justify-center md:justify-end">
-           <img src="./src/assets/assets/banner.png" alt="#" />
+           <img src="./banner.png" alt="#" />
           </div>
 
         </div>
