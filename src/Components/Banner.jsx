@@ -26,7 +26,7 @@ const Banner = () => {
                 Explore Products
               </button>
               <button className="flex items-center gap-1 border border-gray-200 hover:border-purple-300 hover:bg-purple-50 text-gray-700 px-8 py-3.5 rounded-xl font-semibold text-base transition-all">
-                <img src="./play.png" alt="#" /> Watch Demo
+                <img src="./Play.png" alt="#" /> Watch Demo
               </button>
             </div>
            </div>
